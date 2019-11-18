@@ -2,8 +2,6 @@
 
 SnakeGame is a peek into the classic "Snake" game that we all were addicted to in our childhood! This version of the game has been created using HTML, CSS and JavaScript. 
 
-Have fun playing "SnakeGame" ~ Aarushi Vijay
-
 ![Screenshot 2019-11-18 at 2 34 56 AM](https://user-images.githubusercontent.com/52317352/69033570-3ae06c80-09ad-11ea-8a44-8388d7f70085.png)
 
 
