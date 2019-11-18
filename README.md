@@ -11,3 +11,7 @@ Some simple rules of the game to help you understand it better:
 
 - Eat the red apple to gain points (points increase by 10).
 
+## How to Play
+
+
+
